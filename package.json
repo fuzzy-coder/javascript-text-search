@@ -1,0 +1,22 @@
+{
+  "name": "text-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzzy-coder/javascript-text-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuzzy-coder/javascript-text-search/issues"
+  },
+  "homepage": "https://github.com/fuzzy-coder/javascript-text-search#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
